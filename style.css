@@ -16,14 +16,24 @@ h1 {
 	line-height: 100px;
 	font-size: 50px;
 	color: #89B9D0;
+	text-align: center;
 }
-#holder {
+.h2_holder {
+	width: 100%;
+	text-align: center;
+}
+h2 {
+	line-height: 20px;
+	font-size: 20px;
+	color: #89B9D0;
+}
+.holder {
 	padding: 10px 0px;
 	height: 200px;
 	width: 100%;
 	text-align: center;
 }
-#text_input {
+.t_input {
 	color: white;
 	text-align: center;
 	float: left;
@@ -37,7 +47,7 @@ h1 {
 	line-height: 30px;
 	font-size: 20px;
 }
-#viewer {
+.t_display {
 	color: white;
 	line-height: 40px;
 	margin: 0;
